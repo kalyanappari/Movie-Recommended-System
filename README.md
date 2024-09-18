@@ -18,6 +18,8 @@ Hybrid Approaches:
 Combines both collaborative and content-based methods to improve recommendation accuracy and minimize limitations from either approach.
 Model Training:
 
+DataSet : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 Machine learning models such as matrix factorization techniques (e.g., Singular Value Decomposition - SVD) or deep learning models (e.g., Autoencoders, Neural Collaborative Filtering) can be used to train the recommendation system on user-movie interaction data.
 Evaluation:
 
